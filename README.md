@@ -1,5 +1,5 @@
-# TaskMade
-TaskMade is an AI-powered task management app for turning ideas into organized, actionable work.
+# TaskMate
+TaskMate is an AI-powered task management app for turning ideas into organized, actionable work.
 Users can securely create, update, complete, archive, and group tasks into projects and nested checklists.
 Voice capture, natural-language parsing, and multimodal uploads convert unstructured input into structured tasks.
 AI breaks complex goals into practical next steps and drafts content that helps users begin immediately.
